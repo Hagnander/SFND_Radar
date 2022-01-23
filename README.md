@@ -11,7 +11,7 @@ This repository contains the submission for the Radar project which is part of U
 `noise_level = noise_level + db2pow(RDM(p,q));`
 * Convert using pow2db<br>
 `th = pow2db(noise_level/(2*(Td+Gd+1)*2*(Tr+Gr+1)-(Gr*Gd)-1));`
-* Add the offset value
+* Add the offset value<br>
 `th = th + offset;`
 * If the CUT is greater then the threshold replace it by `1`, else `0` <br>
 ## Selection of Training, Guard cells and offset
