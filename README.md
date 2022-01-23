@@ -25,7 +25,7 @@ This was done throught sclicing the output such that we have the surrounding row
 `RDM(:,union(1:(Td+Gd),end-(Td+Gd-1):end)) = 0;  % Columns`
 
 ## Output:
-This is the output for a target at 120m moving at -20 m/s relative speed<br><br>
+This is the output for a target at 120m moving at -20 m/s relative speed.
 ![-](Images/image1.PNG)
 ![-](Images/image2.PNG)
 ![-](Images/image3.PNG)
