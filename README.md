@@ -26,7 +26,7 @@ This was done throught sclicing the output such that we have the surrounding row
 
 ## Output:
 This is the output for a target at 120m moving at -20 m/s relative speed.
-![alt text](https://github.com/hagnander/SFND_Radar/blob/Main/Images/image1.png)
+![alt text](https://github.com/hagnander/SFND_Radar/blob/master/Images/image1.png)
 ![-](Images/image1.PNG)
 ![-](Images/image2.PNG)
 ![-](Images/image3.PNG)
