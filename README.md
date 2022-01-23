@@ -12,8 +12,8 @@ This repository contains the submission for the Radar project which is part of U
 * Convert using pow2db<br>
 `th = pow2db(noise_level/(2*(Td+Gd+1)*2*(Tr+Gr+1)-(Gr*Gd)-1));`
 * Add the offset value
+`th = th + offset;`
 * If the CUT is greater then the threshold replace it by `1`, else `0` <br>
-and that’s all for the Implementation.
 ## Selection of Training, Guard cells and offset
 * `Tr = 10, Td = 8` For both Range and Doppler Training Cells.
 * `Gr = 4, Gd = 4` For both Range and Doppler Guard Cells.
