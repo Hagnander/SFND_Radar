@@ -28,7 +28,7 @@ This was done throught sclicing the output such that we have the surrounding row
 This is the output for a target at 120m moving at -20 m/s relative speed.<br><br>
 ### Range from First FFT
 ![alt text](Images/image1.png)
-### Range from First FFT
+### Range + Speed from FFT2
 ![alt text](Images/image2.png)
 ### CFAR output
 ![alt text](Images/image3.png)
